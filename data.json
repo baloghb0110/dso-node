@@ -1,0 +1,22 @@
+{
+    "rooturl": "httpnz://drasaonline-774.bpsecure.com/cdndata",
+    "cdnurl": "httpnz://drasaonline-774.bpsecure.com/cdndata",
+    "rootkey": "b0d7e6908a93658375bc3dd289808af0",
+    "ip": "8.209.84.108:2190",
+    "uid": "0",
+    "accid": "111630808",
+    "sid": "083a27d6-313d-4808-a84b-7c1a3c499ba0",
+    "resolution": {
+        "width": "800",
+        "height": "400"
+    },
+    "language": "en",
+    "serverlanguage": "en",
+    "instanceid": "815",
+    "bica": "game-815-01-public.prod.drakensang.com",
+    "bicp": "2191",
+    "supporturl": "../support",
+    "forumsurl": "../GameAPI.php?action=portal.redirectToBoard/",
+    "useDeltaDNA": false,
+    "standalone": false
+}
